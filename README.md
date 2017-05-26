@@ -17,7 +17,7 @@ webapp书城：<br>
 仿饿了么：<br>
     待学习<br>
     
-
+angularjs
 React
 
 页面设计图 + 代码<br/>
@@ -31,4 +31,6 @@ React
 山西德商 login
 电子锁
 煤炭物流
+建行app
+
 
