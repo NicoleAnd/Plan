@@ -1,0 +1,81 @@
+死亡管理系统
+	icon 图标制作、内外网页面排版及样式修改建议文档
+
+
+php学习
+	thinkphp 登录注册验证、CURD例子
+
+设计学习
+	排版样式
+
+
+apache    /Library/WebServer/Documents
+	sudo apachectl start/restart
+	sudo apachectl stop
+
+
+
+1.安装jdk、 maven环境、 myeclipse软件安装
+2.海南logoA4纸水印制作
+3.项目样式代码修改
+
+
+
+
+清0方法reset.css
+@charset "utf-8";
+/*CSS*/
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin: 0;padding:0;}
+body{font-size: 12px;}
+img{border: none;}
+li{list-style: none;}
+input,select,textarea{outline: none;}
+textarea{resize: none;}
+a{text-decoration: none;}
+/*清除浮动*/
+.clearfix:after{content: "";display: block;clear: both;}
+.clearfix{zoom:1;}
+
+
+/*
+网站预设Css
+
+推荐字体：
+	Windows:	MicroSoft YaHei(微软雅黑)
+	Mac OS:		PingFang SC(苹方)或 Hiragino Sans GB(冬青黑体)
+
+推荐字体颜色：#333
+
+推荐字体大小：16px
+
+推荐行间距：1.75em
+
+最佳CSS写法
+
+ */
+body{
+	font-family: Hiragino Sans GB,MicroSoft YaHei;
+	color: #333;
+	font-size: 16px;
+	line-height: 1.75;
+}
+
+
+
+
+
+
+
+
+
+
+AngularJS
+
+Ionic
+
+Cordova ngcordova
+
+
+
+
+
