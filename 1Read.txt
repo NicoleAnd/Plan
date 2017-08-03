@@ -17,7 +17,8 @@ apache    /Library/WebServer/Documents
 
 1.安装jdk、 maven环境、 myeclipse软件安装
 2.海南logoA4纸水印制作
-3.项目样式代码修改
+3.绩效管理考核系统 排版样式、代码修改
+4.海南死亡系统 页面问题修改、样式调整、页面设计
 
 
 
