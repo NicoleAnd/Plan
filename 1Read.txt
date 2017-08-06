@@ -1,3 +1,45 @@
+logo 0.11
+封条：430mm 50mm 0.2
+
+
+
+寿司
+
+	肉松包饭
+	蛋黄肉松包饭
+	金枪鱼包饭
+	辣白菜包饭
+	蟹棒包饭
+	玉米沙拉包饭
+	鳗鱼包饭
+	培根包饭
+	培根金针菇包饭
+	黑胡椒牛排包饭
+	+培根
+	+蟹棒
+	+蛋黄
+
+	饭团
+
+
+饮料
+	蓝色海洋	
+	百香果
+	
+
+每日特色
+
+
+
+
+
+
+
+
+
+
+
+
 死亡管理系统
 	icon 图标制作、内外网页面排版及样式修改建议文档
 
@@ -19,6 +61,47 @@ apache    /Library/WebServer/Documents
 2.海南logoA4纸水印制作
 3.绩效管理考核系统 排版样式、代码修改
 4.海南死亡系统 登录页面设计、裁图
+
+
+前台页面框架
+MENU
+
+EXCLUSIVE TOOLS
+
+SYSTEMS
+
+ELEMENTS
+	UI Elements	用户界面元素
+		Alerts
+		Animations
+		Buttons
+		Typography	排版
+		Portlets	门户组件
+		Progress Bars
+		Tabs		标签
+		Icons
+		Grid		网格
+	
+	Form Elements	表单元素
+	
+	Plugins		插件
+
+	Pages		页
+
+PROJECTS
+
+USER STATS
+
+
+
+
+
+
+
+
+
+
+
 
 
 
