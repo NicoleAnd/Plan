@@ -25,25 +25,25 @@ echarts 页面问题：
 
 1.菜单导航：
 	字长，动态拉伸    				finished
-	加边框/背景 形成块级形式			
+	加边框/背景 形成块级形式			finished
 	
 	处于header、footer之间			finished
-	hover、active效果不一样 active加弧度
-	nav -> body间距一点
+	hover、active效果不一样 active加弧度	finished
+	nav -> body间距一点			finished
 	
 2.边框：
-	科技感觉边框线条 凸显科技感
-	圆角、阴影
+	科技感觉边框线条 凸显科技感			finished
+	圆角、阴影					finished
 
 3.echart:
-	单个	标题
-		边框
-		外边距、内边距
+	单个	标题				finished
+		边框				finished
+		外边距、内边距			finished
 
 4.主题：	
 	颜色偏深					finished
-	地图主题 单独
-	不同色系 小跨度
+	地图主题 单独				finished
+	不同色系 小跨度				finished
 
 5.标题：
 	背景					finished
@@ -54,7 +54,11 @@ echarts 页面问题：
 
 
 
-
+e8f2ff
+91c6ff
+29a9ff
+0066ff
+27446e
 
 
 
