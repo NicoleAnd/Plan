@@ -170,50 +170,6 @@ css学习 - - - 0.5h。
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 新名字的故事
 
 世界的凛冬
@@ -253,84 +209,6 @@ css学习 - - - 0.5h。
 杂草记
 
 时间的果
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-死亡管理系统
-	icon 图标制作、内外网页面排版及样式修改建议文档
-
-
-php学习
-	thinkphp 登录注册验证、CURD例子
-
-设计学习
-	排版样式
-
-
-apache    /Library/WebServer/Documents
-	sudo apachectl start/restart
-	sudo apachectl stop
-
-
-
-1.安装jdk、 maven环境、 myeclipse软件安装
-2.海南logoA4纸水印制作
-3.绩效管理考核系统 排版样式、代码修改
-4.海南死亡系统 登录页面设计、裁图
-
-
-前台页面框架
-MENU
-
-EXCLUSIVE TOOLS
-
-SYSTEMS
-
-ELEMENTS
-	UI Elements	用户界面元素
-		Alerts
-		Animations
-		Buttons
-		Typography	排版
-		Portlets	门户组件
-		Progress Bars
-		Tabs		标签
-		Icons
-		Grid		网格
-	
-	Form Elements	表单元素
-	
-	Plugins		插件
-
-	Pages		页
-
-PROJECTS
-
-USER STATS
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
