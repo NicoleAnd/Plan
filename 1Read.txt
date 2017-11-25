@@ -2,9 +2,6 @@
 html { overflow: hidden; }
 
 
-华银金服设计登录页面
-中行
-
 
 
 
