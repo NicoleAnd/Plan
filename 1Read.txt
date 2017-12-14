@@ -11,9 +11,26 @@ html { overflow: hidden; }
 
 
 
+js事件类型 DOM0级事件
+    onclick 单击
+    ondblclick 双击
+    onmouseover 鼠标移上事件
+    onmouseout 鼠标移走事件  
+    onmousedown 鼠标点击按下事件
+    onmouseup 鼠标点击后弹起
+    onfocus 获取焦点事件
+    onblur 失去焦点
+    onload 页面加载事件  
 
+    js事件处理   
+       事件源.事件 = function() {
+    } 
 
-
+   var pic = document.getElementById("pic");
+   pic.ondblclick = function(){
+        pic.style.width = "400px";
+        pic.style.height = "400px";
+   }
 
 
 
