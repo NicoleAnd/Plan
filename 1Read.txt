@@ -9,6 +9,20 @@ bootstrap(js css)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 dont make me think
 
 1.别让我思考 krug可用性第一定律
@@ -46,6 +60,11 @@ dont make me think
 		使用客户端（而不是服务器端）的影像地址（Image Map）
 		
 12.当好人遇到不好的设计决策
+
+
+
+
+
 	
 工作职责
 1、负责公司软件产品在微信公众号/小程序的开发工作；
