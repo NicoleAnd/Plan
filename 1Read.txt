@@ -905,6 +905,30 @@ Cordova
 
 时间的果
 
+里面的div怎么撑开外面的div让高度自适应
+最后一个div里加
+<div style="clear:both;height:1px;width:100%; overflow:hidden; margin-top:-1px;"></div>
+
+如
+<div style="width:580px; height:auto; margin:0 auto; background-color:#333">
+        <div style="height:100px; width:230px; float:left; background-color:#CCC; margin:20px"></div>
+        <div style="height:100px; width:230px; float:left; background-color:#CCC; margin:20px"></div>
+        <div style="height:100px; width:230px; float:left; background-color:#CCC; margin:20px"></div>
+        <div style="clear:both;height:1px;width:100%; overflow:hidden; margin-top:-1px;"></div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 清0方法reset.css
